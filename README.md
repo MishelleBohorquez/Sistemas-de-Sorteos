@@ -16,7 +16,7 @@ El enfoque principal de este desarrollo es la **implementación robusta de lógi
 
 ### 📸 Vista Previa
 *(Imagen)*
-> `![Captura de pantalla del sistema](ruta/a/tu/imagen.png)`
+> `(ruta/imagen.png)`
 
 ---
 
@@ -50,4 +50,4 @@ Para los equipos de desarrollo y reclutadores técnicos, este proyecto destaca p
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/MishelleBohorquez/Sistemas-de-Sorteos.git](https://github.com/MishelleBohorquez/Sistemas-de-Sorteos.git)
+   git clone https://github.com/MishelleBohorquez/Sistemas-de-Sorteos.git
