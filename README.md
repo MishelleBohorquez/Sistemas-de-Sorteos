@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![GUI](https://img.shields.io/badge/Interfaz_Gr%C3%A1fica-Swing/JavaFX-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Estado-En_Proceso-yellow?style=for-the-badge)
 
 > Una aplicación de escritorio intuitiva y dinámica desarrollada en Java, diseñada para automatizar, gestionar y visualizar los sorteos mensuales de fidelización de una cadena de almacenes de colchones con múltiples sedes.
 
