@@ -15,7 +15,6 @@ Este proyecto resuelve la necesidad de una cadena de colchonerías de gestionar 
 El enfoque principal de este desarrollo es la **implementación robusta de lógica de Interfaz Gráfica (GUI)**, garantizando una experiencia de usuario fluida para el administrador del almacén, desde la configuración inicial del sorteo hasta la visualización en vivo de los ganadores.
 
 ### 📸 Vista Previa
-*(Imagen)*
 > `(ruta/imagen.png)`
 
 ---
